@@ -6,11 +6,16 @@ An application to translate text either type or fetch text from image and transl
 
 This project is a starting point for a Flutter application.
 <p>
-  <img src="" height="300em" style="max-width:100%;">
-  <img src="" height="300em" style="max-width:100%;">
-  <img src="" height="300em" style="max-width:100%;">
-  <img src="" height="300em" style="max-width:100%;">
-  <img src="" height="300em" style="max-width:100%;">
+  <img src="screenshots/Screenshot_1.png" height="300em" style="max-width:100%;">
+  <img src="screenshots/Screenshot_2.png" height="300em" style="max-width:100%;">
+  <img src="screenshots/Screenshot_3.png" height="300em" style="max-width:100%;">
+  <img src="screenshots/Screenshot_4.png" height="300em" style="max-width:100%;">
+  <img src="screenshots/Screenshot_5.png" height="300em" style="max-width:100%;">
+  <img src="screenshots/Screenshot_6.png" height="300em" style="max-width:100%;">
+  <img src="screenshots/Screenshot_7.png" height="300em" style="max-width:100%;">
+  <img src="screenshots/Screenshot_8.png" height="300em" style="max-width:100%;">
+  <img src="screenshots/Screenshot_9.png" height="300em" style="max-width:100%;">
+  <img src="screenshots/Screenshot_10.png" height="300em" style="max-width:100%;">
 </p>
 A few resources to get you started if this is your first Flutter project:
 
