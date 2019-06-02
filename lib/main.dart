@@ -6,6 +6,7 @@ import 'package:transify/menu.dart';
 
 void main() => runApp(
     MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Profile.walkthroughLoaded == false ? Welcome() : MenuPage(),
 ));
 
