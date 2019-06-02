@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485581352127",
+    "firebase_url": "https://transify-652c4.firebaseio.com",
+    "project_id": "transify-652c4",
+    "storage_bucket": "transify-652c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485581352127:android:bcf951242dbd875e",
+        "android_client_info": {
+          "package_name": "yuro.transify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485581352127-8vt5dmoe3gf9amd885cb5omi5v6fo6ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yuro.transify",
+            "certificate_hash": "e6b2c90802215af0fdeb3433b2489fbe59dca042"
+          }
+        },
+        {
+          "client_id": "485581352127-rflclndj3gi5ti1sispr2g6c61td8k46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBuI5Unx8vOtNTgTEQ7aPRV9tJ9tgDTFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485581352127-rflclndj3gi5ti1sispr2g6c61td8k46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
